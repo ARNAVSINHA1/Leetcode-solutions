@@ -1,2 +1,2 @@
-# SQL-Query
-SQL Queries
+# Leetcode Solutions
+My Leetcode Solutions
